@@ -1,3 +1,3 @@
 <?php 
- echo "Todo bien?";
+ echo "Este es un nuevo texto 22";
 ?>
