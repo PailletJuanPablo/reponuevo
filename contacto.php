@@ -1,3 +1,3 @@
 <?php 
- echo "Contacto";
+ echo "Todo bien?";
 ?>
